@@ -3,7 +3,7 @@ import os
 import pandas as pd
 
 # Set your OpenAI API key
-api_key = "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"
+api_key = "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"
 openai.api_key = api_key
 
 # Load your labeled dataset
